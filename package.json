@@ -31,7 +31,7 @@
         "url": "https://github.com/zone117x/node-open-mining-portal.git"
     },
     "dependencies": {
-        "stratum-pool": "git://github.com/Certurium/node-stratum-pool.git#80de423883",
+        "stratum-pool": "git://github.com/Certurium/node-stratum-pool.git#5dd506c458",
         "dateformat": "1.0.12",
         "node-json-minify": "*",
         "redis": "0.12.1",
